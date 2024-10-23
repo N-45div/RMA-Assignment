@@ -78,7 +78,7 @@ src/
 
 ## Tests
 
-- **Unit Tests**: Tests are written for core components like `CharacterCard`, `Navbar`, and `CharacterProfilePage`.
+- **Unit Tests**: Tests are written for core components like `CharacterCard`, `CharacterGrid`,`HomePage` and `CharacterProfilePage`.
 - **Integration Tests**: The app has tests for fetching data from the API and rendering the correct UI elements.
   
 Run the tests using:
