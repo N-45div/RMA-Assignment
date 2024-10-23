@@ -92,7 +92,7 @@ The application is deployed using **Vercel**. You can access the live demo [here
 
 ## Project Requirements (from Assignment)
 
-This project adheres to the requirements outlined in the [assignment document](#). Key areas of focus include:
+This project adheres to the requirements outlined in the assignment document. Key areas of focus include:
 - Code quality and consistency.
 - Proper usage of React (hooks, contexts, and modern techniques).
 - Comprehensive unit and integration testing.
